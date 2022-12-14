@@ -1,0 +1,7 @@
+Language Processing/**
+!Language Processing/NLP.py
+!Language Processing/Final_Code.ipynb
+__pycache__/app.cpython-37.pyc
+env/
+.vscode
+app.py
